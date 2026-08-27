@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: www.m3gworks.com
+MIDlet-Version: 1.0.0
+MIDlet-1: Micro Counter Strike,,com.m3gworks.microcs.MicroCsMIDlet
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Name: Micro Counter Strike
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Delete-Confirm: More free games on dedomil.net
+MIDlet-Info-URL: http://dedomil.net
