@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-MicroEdition-Configuration: CLDC-1.0
-MIDlet-Name: Nokia3D
-MIDlet-Vendor: Sumea
-MIDlet-1: Nokia3D, , GameMIDlet
-MIDlet-Version: 1.0.3
-MicroEdition-Profile: MIDP-1.0
-
